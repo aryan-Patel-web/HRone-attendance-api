@@ -15,6 +15,9 @@ export default function Dashboard() {
   const [trend, setTrend] = useState([])
   const [error, setError] = useState('')
 
+
+
+  
   useEffect(() => {
     setError('')
     api('/analytics/departments/summary', { params: { month } })
