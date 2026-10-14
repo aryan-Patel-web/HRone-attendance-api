@@ -9,8 +9,6 @@ analytics built on MongoDB aggregation pipelines. A small **optional** React das
 
 ---
 
-
-
 ## Table of contents
 1. [Quick start (VS Code)](#1-quick-start-vs-code)
 2. [Architecture](#2-architecture)
@@ -27,6 +25,7 @@ analytics built on MongoDB aggregation pipelines. A small **optional** React das
 > Diagrams are written in [Mermaid](https://mermaid.js.org/): GitHub renders them automatically. In VS Code install
 > the extension **Markdown Preview Mermaid Support** (`bierner.markdown-mermaid`) and open the preview with `Ctrl+Shift+V`.
 > Pre-rendered PNG copies are in [`docs/diagrams/`](docs/diagrams) if you would rather just open an image.
+
 
 ---
 
