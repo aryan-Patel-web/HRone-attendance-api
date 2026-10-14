@@ -7,6 +7,8 @@ Reads MONGO_URI / MONGO_DB from the environment or .env. Existing data in the tw
 Includes the awkward cases: employees with no logs, mid-month joiners, an overnight shift, weekend records,
 half days, leave / absent rows, open (not punched out) records and deliberate late-minute ties.
 """
+
+
 import argparse
 import random
 import sys
