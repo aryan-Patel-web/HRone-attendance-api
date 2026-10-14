@@ -9,6 +9,8 @@ analytics built on MongoDB aggregation pipelines. A small **optional** React das
 
 ---
 
+
+
 ## Table of contents
 1. [Quick start (VS Code)](#1-quick-start-vs-code)
 2. [Architecture](#2-architecture)
